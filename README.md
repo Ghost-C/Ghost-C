@@ -1,5 +1,6 @@
 ### Hi there 👋
-- Currently learning data analyses, databases
+- 
+- Currently studying Computer Science
 - I'm somewhat familiar with Python, HTML, CSS, Javascript
 <!--
 **Ghost-C/Ghost-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
