@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 
 - Currently studying Computer Science BSc
-- I'm somewhat familiar with Python, HTML, CSS, Javascript
+- I'm somewhat familiar with Python, C#, Java, Haskell, C, HTML, CSS, Javascript
 <!--
 **Ghost-C/Ghost-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
